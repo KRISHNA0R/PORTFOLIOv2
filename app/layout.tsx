@@ -14,12 +14,12 @@ const vercettiFont = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Mohit Virli ✌️",
-  description: "A frontend developer by profession, a creative at heart.",
-  keywords: "Mohit Virli, Frontend Engineer, React Developer, Three.js, Creative Developer, Web Development, Angular, JavaScript, TypeScript, Portfolio",
-  authors: [{ name: "Mohit Virli" }],
-  creator: "Mohit Virli",
-  publisher: "Mohit Virli",
+  title: "Krishna R ✌️",
+  description: "B.Tech CSE student passionate about technology, innovation, and building real-world solutions.",
+  keywords: "Krishna R, Cloud & DevOps, B.Tech CSE, Amity University Kolkata, Hackathon Finalist, Python, Web Development",
+  authors: [{ name: "Krishna R" }],
+  creator: "Krishna R",
+  publisher: "Krishna R",
   formatDetection: {
     email: false,
     address: false,
@@ -36,20 +36,20 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Mohit Virli - Frontend Engineer",
-    description: "Frontend engineer by profession, creative at heart.",
-    url: "https://mohitvirli.github.io",
-    siteName: "Mohit Virli's Portfolio",
+    title: "Krishna R - Cloud & DevOps",
+    description: "B.Tech CSE student passionate about technology, innovation, and building real-world solutions.",
+    url: "https://github.com/KRISHNA0R/PORTFOLIOv2",
+    siteName: "Krishna R's Portfolio",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mohit Virli - Frontend Engineer",
-    description: "Frontend engineer by profession, creative at heart.",
+    title: "Krishna R - Cloud & DevOps",
+    description: "B.Tech CSE student passionate about technology, innovation, and building real-world solutions.",
   },
   verification: {
-    google: "GsRYY-ivL0F_VKkfs5KAeToliqz0gCrRAJKKmFkAxBA",
+    google: "",
   },
 };
 
