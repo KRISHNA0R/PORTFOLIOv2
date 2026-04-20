@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_next/static/chunks/app/
+Allow: /
+
+Sitemap: https://KRISHNA0R.github.io/sitemap.xml

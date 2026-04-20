@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-19T06:39:19.366Z",
+  "entries": [
+    "astro",
+    "design-taste-frontend",
+    "docs",
+    "full-output-enforcement",
+    "gpt-taste",
+    "high-end-visual-design",
+    "industrial-brutalist-ui",
+    "minimalist-ui",
+    "rayden-use",
+    "redesign-existing-projects",
+    "stitch-design-taste",
+    "sveltekit",
+    "ui-a11y",
+    "ui-component",
+    "ui-page",
+    "ui-pattern",
+    "ui-review",
+    "ui-setup",
+    "ui-tokens",
+    "ux-audit",
+    "ux-copy",
+    "ux-feedback",
+    "ux-flow",
+    "uxui-principles"
+  ]
+}
