@@ -1,8 +1,0 @@
-{"timestamp":"00:03:10.192","source":"Server","level":"WARN","message":""}
-{"timestamp":"00:03:10.196","source":"Server","level":"WARN","message":"warn \"-\" \"The `content` option in your Tailwind CSS configuration is missing or empty.\""}
-{"timestamp":"00:03:10.197","source":"Server","level":"WARN","message":"warn \"-\" \"Configure your content sources or your generated CSS will be missing styles.\""}
-{"timestamp":"00:03:10.197","source":"Server","level":"WARN","message":"warn \"-\" \"https://tailwindcss.com/docs/content-configuration\""}
-{"timestamp":"00:03:10.586","source":"Server","level":"ERROR","message":"⨯ app\\layout.tsx\nModule not found: Can't resolve '../public/Vercetti-Regular.woff'\n\nhttps://nextjs.org/docs/messages/module-not-found\n\nImport trace for requested module:\n./node_modules/next/font/local/target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"\",\"arguments\":[{\"src\":\"../public/Vercetti-Regular.woff\",\"variable\":\"--font-vercetti\"}],\"variableName\":\"vercettiFont\"}"}
-{"timestamp":"00:03:10.792","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\Krish\\OneDrive\\Desktop\\GRINDURA\\krishnai.github.io\\app'"}
-{"timestamp":"00:03:10.796","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: ENOENT: no such file or directory, scandir 'C:\\Users\\Krish\\OneDrive\\Desktop\\GRINDURA\\krishnai.github.io\\app'"}
-{"timestamp":"00:03:10.799","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection: \" Error: ENOENT: no such file or directory, scandir 'C:\\Users\\Krish\\OneDrive\\Desktop\\GRINDURA\\krishnai.github.io\\app'"}

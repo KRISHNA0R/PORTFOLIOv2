@@ -1,21 +1,26 @@
-# Krishna R Portfolio
+# mohitvirli.github.io
+Hello there! I'm Mohit Virli, frontend engineer by profession, a creative at heart.
 
-Welcome to the personal 3D portfolio of **Krishna R**, a B.Tech CSE student passionate about Cloud, DevOps, and Frontend Development. 
+This the updated version of my personal website which is now in 3D. LFG!
 
-## Features
-- Fully interactive 3D WebGL experience using React Three Fiber.
-- GSAP Animations for smooth transitions.
-- Fully responsive on all devices.
+Checkout the live version at [mohitvirli.github.io](https://mohitvirli.github.io/)
 
 ## Tech Stack
-- Next.js (Access via `npm run dev`)
-- Three.js / React Three Fiber / Drei
-- Tailwind CSS
+
+- Next.js
+- React
+- React-three-fiber
+- DREI
 - GSAP
+- Zustand
+- Tailwind
 
-## About Me
-I thrive on tackling challenges, learning fast, and delivering impactful, scalable, and innovative solutions. Feel free to connect with me!
+## Preview
+Some of the sample images from the app. Better to check it out live!
 
-- LinkedIn: https://www.linkedin.com/in/krishnarsoftwareengineer00000/
-- GitHub: https://github.com/KRISHNA0R
-- Instagram: https://www.instagram.com/dev.krishnar/
+<img width="1242" alt="image" src="https://github.com/user-attachments/assets/877b0685-8d86-4f8b-b123-f3cc17d46fc7" />
+<img width="1241" alt="image" src="https://github.com/user-attachments/assets/09a92647-1781-4124-ba3f-1d6fb66f6974" />
+<img width="1241" alt="image" src="https://github.com/user-attachments/assets/a15017f4-f1f2-459e-b895-b3c14703635b" />
+<img width="1428" height="830" alt="image" src="https://github.com/user-attachments/assets/9f78c2e8-991c-4507-8ffb-72e61513c031" />
+
+

@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /_next/static/chunks/app/
 Allow: /
 
-Sitemap: https://KRISHNA0R.github.io/sitemap.xml
+Sitemap: https://mohitvirli.github.io/sitemap.xml
