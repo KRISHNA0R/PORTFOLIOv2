@@ -33,8 +33,8 @@ const TimelinePoint = ({ point, diff }: { point: WorkTimelinePoint, diff: number
   const titleProps = useMemo(() => ({
     ...textProps,
     font: "./soria-font.ttf",
-    fontSize: 0.5,
-    maxWidth: 2.5,
+    fontSize: isMobile ? 0.4 : 0.5,
+    maxWidth: isMobile ? 1.8 : 2.5,
   }), [textProps]);
 
   return (
@@ -45,14 +45,14 @@ const TimelinePoint = ({ point, diff }: { point: WorkTimelinePoint, diff: number
       </Box>
       <group>
         <group position={getPoint}>
-          <Text {...textProps} fontSize={0.25} position={[-diff / 2, 0.4, 0]}>
+          <Text {...textProps} fontSize={isMobile ? 0.2 : 0.25} position={[-diff / 2, 0.65, 0]}>
             {point.year}
           </Text>
           <group position={[0, 0, 0]}>
-            <Text {...titleProps} position={[0, -diff / 2, 0]} lineHeight={1}>
+            <Text {...titleProps} position={[0, -diff / 2, 0]} lineHeight={0.9}>
               {point.title}
             </Text>
-            <Text {...textProps} fontSize={0.18} position={[0, -0.5 - diff, 0]}>
+            <Text {...textProps} fontSize={isMobile ? 0.14 : 0.18} position={[0, -0.6 - diff, 0]}>
               {point.subtitle}
             </Text>
           </group>
