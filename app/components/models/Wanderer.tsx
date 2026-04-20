@@ -30,7 +30,7 @@ type GLTFResult = GLTF & {
 }
 
 export function Wanderer(props: JSX.IntrinsicElements['group']) {
-  const { nodes, materials } = useGLTF('models/wanderer_above_the_sea_of_fog.glb') as GLTFResult
+  const { nodes, materials } = useGLTF('models/wanderer_above_the_sea_of_fog.glb') as unknown as GLTFResult
   return (
     <group {...props} dispose={null}>
       <group rotation={[-Math.PI / 2, 0, 0]} scale={0.676}>
