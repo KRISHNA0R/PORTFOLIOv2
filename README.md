@@ -3,7 +3,7 @@ Hello there! I'm Krishna R, a B.Tech Computer Science student, Cloud & DevOps en
 
 This is the interactive 3D version of my personal portfolio, built to showcase my journey, hackathon projects, and technical skills.
 
-Checkout the live version at [devkrishnarv2-0.vercel.app](https://devkrishnarv2-0.vercel.app/)
+Checkout the live version at [devkrishnarv2-0.vercel.app](https://devkrishna-v2.vercel.app/)
 
 ## 🚀 Tech Stack
 
